@@ -1,4 +1,4 @@
-# hpc_assignment-3
+# HPC Assignment - 3
 
 ## Binary Search Tree (BST) Test
 
@@ -68,3 +68,31 @@ The program generates reports containing:
 
  This code offers a flexible means of concurrently testing a binary search tree's behavior, enabling users to customize thread count, initial tree size, and workload distribution for tailored 
  performance assessments in multi-threaded scenarios.
+
+ ### Graphs plotted against throughput by varying no.of threads for different locks
+
+ ##### TAS Lock:
+
+ ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/0e2ade54-1377-40ad-bae5-4f6d21794394)
+
+ #### A Lock:
+
+ ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/77ffe182-1537-4a0d-b85b-0417ef2bb856)
+
+ #### TTAS Lock:
+
+ ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/f074bd0e-9a93-43f2-9e64-45dea3940ca0)
+
+ #### MCS Lock:
+
+ ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/44624f68-afb5-4221-b8ae-c9ca88d2a24c)
+
+ #### CLH Lock:
+
+ ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/2ffffd92-7cfb-4127-b531-8749bf847eb9)
+
+ #### TTAS With Backoff Lock
+
+ ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/1d71cdd8-c48e-4a79-aa60-7879274e1884)
+
+
