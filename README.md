@@ -73,26 +73,26 @@ The program generates reports containing:
 
  ##### TAS Lock:
 
- ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/0e2ade54-1377-40ad-bae5-4f6d21794394)
+ ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/2e2469ac-05a7-4722-8108-41198b0f63d7)
 
  #### A Lock:
 
- ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/77ffe182-1537-4a0d-b85b-0417ef2bb856)
+![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/55f11d91-26e7-4de2-a625-d9428774ba76)
 
  #### TTAS Lock:
 
- ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/f074bd0e-9a93-43f2-9e64-45dea3940ca0)
+![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/bd1444fd-88b1-41ba-974b-c2bf9f92ee94)
 
  #### MCS Lock:
 
- ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/44624f68-afb5-4221-b8ae-c9ca88d2a24c)
+![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/7995d7e6-73db-414e-b283-52a9718e844b)
 
  #### CLH Lock:
 
- ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/2ffffd92-7cfb-4127-b531-8749bf847eb9)
+ ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/17716569-0aef-45a7-a79a-1b9d52bfd9df)
 
  #### TTAS With Backoff Lock
 
- ![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/1d71cdd8-c48e-4a79-aa60-7879274e1884)
+![image](https://github.com/ganeshvarmapotturi/HPC_Assignment-3/assets/69681358/4d764a75-2ce8-4bfd-9bb9-4d6c563d23a9)
 
 
